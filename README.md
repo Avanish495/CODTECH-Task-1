@@ -4,3 +4,5 @@ ID :- CT6WDS220
 DOMAIN :- PYTHON PROGRAMMING 
 DURATION :- 10 June 2024 - 22 July 2024 
 MENTOR :- SRAVANI GOUNI
+
+![Screenshot (36)](https://github.com/Avanish495/CODTECH-Task-1/assets/175234406/26b24361-60e9-49e0-bf43-50f49c70e5bc)
